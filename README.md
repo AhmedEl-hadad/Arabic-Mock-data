@@ -2,6 +2,6 @@
 
 Reusable, Arabic-friendly mock datasets for UI prototyping, API simulations, and frontend testing.
 
-![Design Thumbnail](https://github.com/AhmedEl-hadad/ArabicaAPI/blob/main/assets/thumbnail.jpg?raw=true)
+![Design Thumbnail](https://github.com/AhmedEl-hadad/Arabic-Mock-data/blob/main/assets/thumbnail.png?raw=true)
 
 ---
