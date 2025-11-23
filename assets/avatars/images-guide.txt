@@ -1,0 +1,115 @@
+﻿# Avatar Images Guide
+
+## Dataset Information
+- **Dataset**: `data/users/users.json`
+- **Approximate images needed**: ~100 avatar portraits (1 per user)
+- **Naming pattern**: `user-001.png` - `user-100.png`
+
+## Image Specifications
+- Square avatars, minimum 512x512 for responsive use
+- Align numbering with each `id` (user-###)
+- Used anywhere profiles display an `avatar`
+
+## Image URLs
+
+
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839588/user-001_qa6mkp.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839536/user-002_yhtx4w.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839544/user-003_dsvbqy.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839614/user-004_pugb62.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839535/user-005_hg7qea.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839620/user-006_vig9e9.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839625/user-007_gadg0q.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839620/user-008_lkn57e.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839658/user-009_tk0buy.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839667/user-010_zkmb4u.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839652/user-011_snk2lg.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839699/user-012_jkg1yg.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839696/user-013_rqsvb9.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839651/user-014_oto6a4.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839739/user-015_uf60mx.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839678/user-016_g4zcvy.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839685/user-017_w2gari.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839772/user-018_dy7pyg.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839697/user-019_lq0b5g.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839699/user-020_gbscvg.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839710/user-021_gwxr0f.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840402/user-022_kegpd5.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839742/user-023_uu9ied.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839719/user-024_ltncia.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840479/user-025_l5g8dx.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840506/user-026_rcephx.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839747/user-027_igp3uu.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840496/user-028_bxnoes.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840507/user-029_fh8gdd.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839749/user-030_kgwzsh.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839827/user-031_knis3m.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839768/user-032_owni2h.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839759/user-033_gmj35r.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839828/user-034_uwnlnq.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839818/user-035_zcfxiu.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839780/user-036_sxdf8l.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839810/user-037_febh87.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839831/user-038_iiygkv.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839821/user-039_m9zzai.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839863/user-040_txfkeg.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839892/user-041_orup6y.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839834/user-042_mayrpp.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839834/user-043_aljqhh.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839859/user-044_pdpnkp.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839847/user-045_zwjlfq.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839912/user-046_mxbegd.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839864/user-047_zq8ddr.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839860/user-048_umfmdu.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839920/user-049_j3zerb.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839938/user-050_ytgoeo.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839980/user-051_y9ib6h.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839953/user-052_ntan8u.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839913/user-053_odfmbl.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839926/user-054_ktjlfw.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839932/user-055_nutuj4.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839951/user-056_kbfazi.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839952/user-057_xcfijk.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840059/user-058_xntp89.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840065/user-059_l7r70g.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840041/user-060_aei8hj.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839969/user-061_rysnee.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763839981/user-062_rztqw0.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840010/user-063_mfdhof.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840012/user-064_f0ygpp.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840018/user-065_e1csyn.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840017/user-066_xqcjob.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840027/user-067_xpntyn.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840045/user-068_ivttbc.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840060/user-069_wzl1wg.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840045/user-070_dtth1j.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840088/user-071_o9unl4.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840070/user-072_z1s12l.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840152/user-073_rdlra8.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840089/user-074_bdlq8n.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840115/user-075_nz247s.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840073/user-076_vfh11b.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840149/user-077_miz48k.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840119/user-078_ph0bma.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840135/user-079_gsmwbi.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840110/user-080_vylbru.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840126/user-081_ssr8hk.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840160/user-082_ut830w.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840186/user-083_xsprxm.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840151/user-084_o5rlss.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840284/user-085_jqse26.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840239/user-086_m8s1dh.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840233/user-087_xowyyd.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840179/user-088_ql1hfu.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840218/user-089_gr834r.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840247/user-090_cworee.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840233/user-091_hnxsx9.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840321/user-092_zhuewv.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840371/user-093_dhmfkd.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840299/user-094_ogiabj.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840260/user-095_nvmzky.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840357/user-096_s7cl7x.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840275/user-097_vdvncf.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840342/user-098_zdgfll.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840324/user-099_uh4ass.webp
+https://res.cloudinary.com/dcvfwtpdo/image/upload/v1763840381/user-100_i5bkxj.webp
