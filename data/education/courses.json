@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "title": "دورة تعلم لغة البرمجة بايثون من الصفر حتي الاحتراف [python full course 2020]",
+    "channel": "Codezilla",
+    "url": "https://www.youtube.com/watch?v=h3VCQjyaLws&list=PLuXY3ddo_8nzrO74UeZQVZOb5-wIS6krJ",
+    "duration": "2h 45m",
+    "level": "beginner",
+    "tags": ["برمجة", "بايثون", "أساسيات"]
+  },
+  {
+    "id": 2,
+    "title": "كورس تعلم الـ UI Design و Figma من الصفر للاحتراف مجانا 2025",
+    "channel": "Ehab Fayez",
+    "url": "https://www.youtube.com/watch?v=MJDPFYe_0g0&list=PLjzhiGLyugKwnM6uN4NXhfpU8L7XvtDEv",
+    "duration": "1h 50m",
+    "level": "beginner",
+    "tags": ["تصميم", "واجهات"]
+  },
+  {
+    "id": 3,
+    "title": "إدارة قواعد البيانات باستخدام SQL",
+    "channel": "Wael abo hamza",
+    "url": "https://www.youtube.com/watch?v=vfUMzsUqqb0&list=PL93xoMrxRJIuicqcd1UpFUYMfWKGp7JmI",
+    "duration": "3h 10m",
+    "level": "intermediate",
+    "tags": ["قواعد بيانات", "SQL"]
+  },
+  {
+    "id": 4,
+    "title": "كورس تحليل البيانات بالاكسل",
+    "channel": "Mohamed Al Assaal - اتعلم مع العسال",
+    "url": "https://www.youtube.com/watch?v=cPWC-WNchJk&list=PLXlHqMRg9lAbetpJy3ePXsN0sj9Zs-pvT",
+    "duration": "2h 05m",
+    "level": "beginner",
+    "tags": ["تحليل بيانات", "إكسل"]
+  },
+  {
+    "id": 5,
+    "title": "كورس تحليل البيانات بالاكسل",
+    "channel": "Elgouhary AI",
+    "url": "https://www.youtube.com/watch?v=95RhuC30R5U&list=PLtsZ69x5q-X9j44MdSX-NGuOhGXOY0aqH",
+    "duration": "2h 30m",
+    "level": "intermediate",
+    "tags": ["ذكاء اصطناعي", "تعلم آلة"]
+  },
+  {
+    "id": 6,
+    "title": "كورس الأندرويد كاملا",
+    "channel": "Lazy programmers",
+    "url": "https://www.youtube.com/watch?v=6nrx0PXAuhQ&list=PLjTzpE6cvFakLb80cpN-9vUcGgL_BbOPI",
+    "duration": "4h 20m",
+    "level": "advanced",
+    "tags": ["أندرويد", "تطوير تطبيقات"]
+  },
+  {
+    "id": 7,
+    "title": "✨ كورس أساسيات التسويق للمبتدئين | عمرو الشوبكي - دليل شامل ✨",
+    "channel": "عمرو الشوبكي - Amr Elshobaky",
+    "url": "https://www.youtube.com/watch?v=hy1UknJk1x0&list=PLkExK75hqSqaxKsxd05GBKvR8phKyTj_y",
+    "duration": "1h 40m",
+    "level": "beginner",
+    "tags": ["تسويق", "رقمي"]
+  },
+  {
+    "id": 8,
+    "title": "دمج الصور في الفوتوشوب",
+    "channel": "Mehdi Jariri",
+    "url": "https://www.youtube.com/watch?v=dxnq9XuUhPc&list=PLcs0uXHJsHN1Bib-Xe49EIWXKHFb8ye4U",
+    "duration": "2h 15m",
+    "level": "intermediate",
+    "tags": ["تصميم", "فوتوشوب", "تحرير"]
+  },
+  {
+    "id": 9,
+    "title": "كورس تصميم الشعارات 2023",
+    "channel": "Ziaad Studio",
+    "url": "https://www.youtube.com/watch?v=s3kGDG6Ex2s&list=PL8iGsc6Wc5E8OVEQJfkE3TsFHhgZs21qo",
+    "duration": "1h 55m",
+    "level": "intermediate",
+    "tags": ["شعارات", "تصميم"]
+  },
+  {
+    "id": 10,
+    "title": "Learn JavaScript in Arabic 2021",
+    "channel": "Elzero Web School",
+    "url": "https://www.youtube.com/watch?v=GM6dQBmc-Xg&list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv",
+    "duration": "3h 00m",
+    "level": "intermediate",
+    "tags": ["ويب", "جافاسكربت"]
+  },
+  {
+    "id": 11,
+    "title": "كورس سيو كامل seo full course 2023",
+    "channel": "دروس تسويق عربية",
+    "url": "https://www.youtube.com/watch?v=KRAFa_J6c-8&list=PLAOJNfhkbzlW4SVFtg91kYzgTJ0KFI5uN",
+    "duration": "2h 10m",
+    "level": "advanced",
+    "tags": ["SEO", "تسويق"]
+  },
+  {
+    "id": 12,
+    "title": "كورس شامل لتعلم اللغة الانجليزية من الصفر للمبتدئين كورس كامل من البداية الى الاحتراف - المستوى الاول",
+    "channel": "لغات للجميع",
+    "url": "https://www.youtube.com/watch?v=77IK9T45kiU&list=PLp22-4PivYmIFAnru_L7fnMhSV5YffLTZ",
+    "duration": "1h 30m",
+    "level": "beginner",
+    "tags": ["لغة", "إنجليزية"]
+  },
+  {
+    "id": 13,
+    "title": "دورة مبادئ المحاسبة المالية",
+    "channel": "اقتصاديات عربية",
+    "url": "https://www.youtube.com/watch?v=7FYCg_S_ZYc&list=PLySiPMvmEyCTG5EThKH8s6mHTYkctPsj8",
+    "duration": "2h 20m",
+    "level": "beginner",
+    "tags": ["محاسبة", "مالية"]
+  },
+  {
+    "id": 14,
+    "title": "تعمق في التحليل المالي المتقدم من خلال هذه الدورة الشاملة 📚💸",
+    "channel": "خبراء المال",
+    "url": "https://youtube.com/playlist?list=PL984JE19UnZxgiDNWNnNzw4S2-msCWj7l&si=diwBnNUe5K526xJH",
+    "duration": "3h 25m",
+    "level": "advanced",
+    "tags": ["تحليل مالي", "استثمار"]
+  },
+  {
+    "id": 15,
+    "title": "دورة إنشاء متجر إلكتروني إحترافي على منصة شوبيفاي - Shopify",
+    "channel": "تجارة إلكترونية عربية",
+    "url": "https://youtube.com/playlist?list=PL5YJ7vgX_Ey2uQl8hnsLzDMa4Y44-s06p&si=j00SjBogJ8YpBSye",
+    "duration": "2h 00m",
+    "level": "intermediate",
+    "tags": ["متجر إلكتروني", "شوبيفاي"]
+  },
+  {
+    "id": 16,
+    "title": "Data Analysis with Python تحليل البيانات باستخدام البايثون",
+    "channel": "بيانات بالعربي",
+    "url": "https://youtube.com/playlist?list=PLof3yw6ZFPFg5W3Z3sv6GzY6WvvXBqtnD&si=XDrc4xAoDC7t41C7",
+    "duration": "2h 35m",
+    "level": "intermediate",
+    "tags": ["تحليل بيانات", "بايثون"]
+  },
+  {
+    "id": 17,
+    "title": "#Courses - كورس تعلم التصوير الفوتوغرافي للمبتدئين",
+    "channel": "فن التصوير",
+    "url": "https://youtube.com/playlist?list=PL7l5DODoBYhEr10E3nZBzRIEJ4IlFHMK7&si=MTXxGFy11N8VJHjx",
+    "duration": "1h 45m",
+    "level": "beginner",
+    "tags": ["تصوير", "كاميرا"]
+  },
+  {
+    "id": 18,
+    "title": "دورة فن الخط العربي |#نفهم_مهارات الحياة | مهارات خط النسخ",
+    "channel": "مدرسة الخطاط",
+    "url": "https://youtube.com/playlist?list=PLRhJLVk1XB2URVSUxBBFWGUBZA4x76pUc&si=XxXfPVUE94muLrCj",
+    "duration": "2h 50m",
+    "level": "beginner",
+    "tags": ["خط عربي", "فن"]
+  },
+  {
+    "id": 19,
+    "title": "شرح اساسيات ومفاهيم الشبكات - عماد نشأت",
+    "channel": "شبكات بالعربي",
+    "url": "https://youtube.com/playlist?list=PL8s4OGp0649_e_Wbz5MlBgW5rBW-9hD0c&si=tcNnS_OIv6WWUrpe",
+    "duration": "3h 05m",
+    "level": "intermediate",
+    "tags": ["شبكات", "بنية تحتية"]
+  },
+  {
+    "id": 20,
+    "title": "كورس مهارات ادارة الوقت",
+    "channel": "حياة منتجة",
+    "url": "https://youtube.com/playlist?list=PLqGEgt_8f5gSM6JNsCtixzFfuK5MZlgHi&si=abCVVgBb4RFS99gr",
+    "duration": "1h 20m",
+    "level": "beginner",
+    "tags": ["إدارة وقت", "إنتاجية"]
+  },
+  {
+    "id": 21,
+    "title": "عرض بوربوينت احترافي Professional PowerPoint presentation",
+    "channel": "مهارات العرض",
+    "url": "https://youtube.com/playlist?list=PL_jKuFUdqkNmJxqFA1qhoeNBmHAkz2dwh&si=V4P_ZuM_ThKB-wIz",
+    "duration": "1h 35m",
+    "level": "beginner",
+    "tags": ["عروض", "تواصل"]
+  },
+  {
+    "id": 22,
+    "title": "الدورة الشاملة لتعلم لغة جافا من الصفر",
+    "channel": "برمجة احترافية",
+    "url": "https://youtube.com/playlist?list=PLCi9_wQUeSMU9lnFeub4Vb27S5TnwesCy&si=Ddt8gxRorRXR0G9d",
+    "duration": "4h 10m",
+    "level": "advanced",
+    "tags": ["جافا", "برمجة"]
+  },
+  {
+    "id": 23,
+    "title": "كورس ادوبي اليستريتور - Adobe Illustrator CC Course",
+    "channel": "رسم رقمي عربي",
+    "url": "https://youtube.com/playlist?list=PLg9ps5Gu0MiC_T2Spv3tMmmQjhpCrKC7Z&si=IVc8p7UFG2oqlDNJ",
+    "duration": "2h 25m",
+    "level": "beginner",
+    "tags": ["Illustrator", "تصميم"]
+  },
+  {
+    "id": 24,
+    "title": "كورس شامل لتحليل البيانات – Excel & Power BI خطوة بخطوة",
+    "channel": "تحليلات متقدمة",
+    "url": "https://youtube.com/playlist?list=PLQc5NCWN0ZtStav6-Cz4u9dzEj6Z3djlQ&si=1_5f16CtQD2tunsz",
+    "duration": "3h 15m",
+    "level": "intermediate",
+    "tags": ["تحليل أعمال", "Power BI"]
+  },
+  {
+    "id": 25,
+    "title": "ui ux design course for beginners  كورس تصميم تجربة المستخدم",
+    "channel": "مسار التصميم",
+    "url": "https://youtube.com/playlist?list=PL1h8Fv-RGaUJJdI0JS6I9eE49kXFxbQwJ&si=eMZtUk2RkjuxKawU",
+    "duration": "2h 05m",
+    "level": "intermediate",
+    "tags": ["UX", "تجربة مستخدم"]
+  },
+  {
+    "id": 26,
+    "title": "كورس صناعة الفيديو بالذكاء الاصطناعي الاحترافي",
+    "channel": "استوديو المحتوى",
+    "url": "https://youtube.com/playlist?list=PLcWg2WBtHRzg-vQP4NuItJ_7ZA-yHrS5A&si=WlZ4cZUQU2CS066d",
+    "duration": "2h 40m",
+    "level": "intermediate",
+    "tags": ["فيديو", "محتوى"]
+  },
+  {
+    "id": 27,
+    "title": "كورس امن المعلومات",
+    "channel": "GeekHood",
+    "url": "https://www.youtube.com/watch?v=cybersecbase",
+    "duration": "2h 55m",
+    "level": "intermediate",
+    "tags": ["أمن معلومات", "شبكات"]
+  },
+  {
+    "id": 28,
+    "title": "كورس برنامج مايكروسوفت وورد بالكامل للمبتدئين",
+    "channel": "Mohamed Qonswa ",
+    "url": "https://youtube.com/playlist?list=PL9DWh3cmLYo0UcEaVug2mzvbAou0A8843&si=9ESOfVs0DPf166dx",
+    "duration": "1h 25m",
+    "level": "beginner",
+    "tags": ["وورد", "مكتب"]
+  },
+  {
+    "id": 29,
+    "title": "كورس البوربوينت للمبتدئين",
+    "channel": "PowerPoint Academy",
+    "url": "https://youtube.com/playlist?list=PLJ6rITJKyxItOyRC9Tq0Y4uxIfcHao_av&si=kn8xk8dcaOlJwxHd",
+    "duration": "1h 55m",
+    "level": "intermediate",
+    "tags": ["باوربوينت", "عروض"]
+  },
+  {
+    "id": 30,
+    "title": "Agile Methodologies for  Project Management| شرح طرق الاجايل لادارة المشاريع  باللغة العربية د.عمرو عكاشة",
+    "channel": "Dr.AmrOkasha",
+    "url": "https://youtube.com/playlist?list=PL9Wuw9rXYbzA2qrRg26qtFAg792p23pv7&si=IvG4izsCjflGca30",
+    "duration": "3h 30m",
+    "level": "advanced",
+    "tags": ["إدارة مشاريع", "أجايل"]
+  }
+]
