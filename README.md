@@ -289,8 +289,6 @@ Pull requests that add data should mention record counts changed so maintainers 
 - Add relational helper files (e.g., product ↔ recipe pairings or job ↔ skill tags).
 - Expand imagery coverage with responsive sizes or a lightweight CDN mirror.
 - Introduce scenario-based datasets (loyalty programs, support tickets, analytics summaries).
-- Add locale variants (en/ar) or right-to-left layout metadata.
-- Provide TypeScript types / Zod schemas to generate typed clients.
 
 ---
 
